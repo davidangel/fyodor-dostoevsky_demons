@@ -129,6 +129,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="part-1.xhtml"/>
 		<itemref idref="chapter-1-1.xhtml"/>
 		<itemref idref="chapter-1-2.xhtml"/>
@@ -155,7 +156,6 @@
 		<itemref idref="chapter-3-6.xhtml"/>
 		<itemref idref="chapter-3-7.xhtml"/>
 		<itemref idref="chapter-3-8.xhtml"/>
-		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
